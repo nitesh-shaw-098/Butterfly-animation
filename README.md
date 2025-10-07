@@ -6,7 +6,7 @@ A simple and visually appealing **CSS & HTML animation project** that brings a m
 
 ## 🌼 Live Demo
 
-🎯 **[Click Here to View Live Demo](https://your-username.github.io/butterfly-animation/)**  
+🎯 **[Click Here to View Live Demo](https://nitesh-shaw-098.github.io/Butterfly-animation/)**  
 
 To run locally, just open `index.html` in your browser.
 
